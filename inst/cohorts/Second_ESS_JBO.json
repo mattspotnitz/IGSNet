@@ -1,0 +1,231 @@
+{
+  "ExpressionLimit": {"Type": "First"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {
+    "StartDate": null,
+    "EndDate": null
+  },
+  "ConceptSets": [
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4277906,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "65795004",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Nasal endoscopy with maxillary antrostomy",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "Maxillary Antrostomy ESS",
+      "id": 0
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2106410,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "31276",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Nasal/sinus endoscopy, surgical, with frontal sinus exploration, including removal of tissue from frontal sinus, when performed",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2106408,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "31256",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Nasal/sinus endoscopy, surgical, with maxillary antrostomy",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2106409,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "31267",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Nasal/sinus endoscopy, surgical, with maxillary antrostomy; with removal of tissue from maxillary sinus",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2106411,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "31287",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Nasal/sinus endoscopy, surgical, with sphenoidotomy",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2106422,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "31288",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Nasal/sinus endoscopy, surgical, with sphenoidotomy; with removal of tissue from the sphenoid sinus",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2106406,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "31254",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Nasal/sinus endoscopy, surgical with ethmoidectomy; partial (anterior)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2106407,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "31255",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Nasal/sinus endoscopy, surgical with ethmoidectomy; total (anterior and posterior)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        }
+      ]},
+      "name": "FESS JBO",
+      "id": 4
+    }
+  ],
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [],
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [{
+    "expression": {
+      "CriteriaList": [{
+        "RestrictVisit": false,
+        "StartWindow": {
+          "UseEventEnd": false,
+          "Start": {
+            "Days": null,
+            "Coeff": -1
+          },
+          "End": {
+            "Days": 1,
+            "Coeff": -1
+          },
+          "UseIndexEnd": null
+        },
+        "IgnoreObservationPeriod": false,
+        "EndWindow": null,
+        "Criteria": {"ProcedureOccurrence": {
+          "ProcedureType": null,
+          "CorrelatedCriteria": null,
+          "CodesetId": 4,
+          "ProcedureSourceConcept": null,
+          "Quantity": null,
+          "ProviderSpecialty": null,
+          "Gender": null,
+          "ProcedureTypeExclude": false,
+          "VisitType": null,
+          "First": null,
+          "OccurrenceStartDate": null,
+          "Modifier": null,
+          "Age": null
+        }},
+        "Occurrence": {
+          "Type": 2,
+          "IsDistinct": false,
+          "Count": 1
+        }
+      }],
+      "Type": "ALL",
+      "DemographicCriteriaList": [],
+      "Groups": [],
+      "Count": null
+    },
+    "name": "All Sinuses FESS",
+    "description": null
+  }],
+  "PrimaryCriteria": {
+    "CriteriaList": [{"ProcedureOccurrence": {
+      "ProcedureType": null,
+      "CorrelatedCriteria": null,
+      "CodesetId": 4,
+      "ProcedureSourceConcept": null,
+      "Quantity": null,
+      "ProviderSpecialty": null,
+      "Gender": null,
+      "ProcedureTypeExclude": false,
+      "VisitType": null,
+      "First": null,
+      "OccurrenceStartDate": null,
+      "Modifier": null,
+      "Age": null
+    }}],
+    "PrimaryCriteriaLimit": {"Type": "Last"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 0
+    }
+  }
+}

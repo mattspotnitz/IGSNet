@@ -1,0 +1,124 @@
+targetId,comparatorId,outcomeId,outcomeName,type
+1770804,1770803,4305080,Abnormal breathing,outcome
+1770804,1770803,138384,Acquired hypothyroidism,outcome
+1770804,1770803,137951,Acquired keratoderma,outcome
+1770804,1770803,194686,Acquired renal cystic disease,outcome
+1770804,1770803,138825,Actinic keratosis,outcome
+1770804,1770803,257004,Acute exacerbation of chronic obstructive airways disease,outcome
+1770804,1770803,199866,Acute gastritis,outcome
+1770804,1770803,436118,After-cataract with vision obscured,outcome
+1770804,1770803,381295,Age-related cataract,outcome
+1770804,1770803,433753,Alcohol abuse,outcome
+1770804,1770803,435243,Alcohol dependence,outcome
+1770804,1770803,439147,Amnesia,outcome
+1770804,1770803,200528,Ascites,outcome
+1770804,1770803,438409,Attention deficit hyperactivity disorder,outcome
+1770804,1770803,136057,Benign neoplasm of skin of trunk,outcome
+1770804,1770803,198803,Benign prostatic hyperplasia,outcome
+1770804,1770803,443211,Benign prostatic hypertrophy with outflow obstruction,outcome
+1770804,1770803,201072,Benign prostatic hypertrophy without outflow obstruction,outcome
+1770804,1770803,444367,Cholelithiasis without obstruction,outcome
+1770804,1770803,381292,Chronic allergic conjunctivitis,outcome
+1770804,1770803,432738,Chronic fatigue syndrome,outcome
+1770804,1770803,443597,Chronic kidney disease stage 3,outcome
+1770804,1770803,75860,Constipation,outcome
+1770804,1770803,4311591,Cramp in limb,outcome
+1770804,1770803,197610,Cyst of ovary,outcome
+1770804,1770803,433163,Deficiency of macronutrients,outcome
+1770804,1770803,73575,Deformity of toe,outcome
+1770804,1770803,435796,Dehydration,outcome
+1770804,1770803,377910,Deviated nasal septum,outcome
+1770804,1770803,201061,Diaphragmatic hernia,outcome
+1770804,1770803,432730,Difficulty speaking,outcome
+1770804,1770803,74725,Displacement of cervical intervertebral disc without myelopathy,outcome
+1770804,1770803,433316,Dizziness and giddiness,outcome
+1770804,1770803,381877,Dysfunction of eustachian tube,outcome
+1770804,1770803,31317,Dysphagia,outcome
+1770804,1770803,433440,Dysthymia,outcome
+1770804,1770803,137351,Epidermoid cyst of skin,outcome
+1770804,1770803,197381,Epigastric pain,outcome
+1770804,1770803,30753,Esophagitis,outcome
+1770804,1770803,197607,Excessive and frequent menstruation,outcome
+1770804,1770803,72715,Exostosis,outcome
+1770804,1770803,201418,"Flatulence, eructation and gas pain",outcome
+1770804,1770803,196456,Gallstone,outcome
+1770804,1770803,318800,Gastroesophageal reflux disease,outcome
+1770804,1770803,434613,Generalized anxiety disorder,outcome
+1770804,1770803,4168217,Generalized hyperhidrosis,outcome
+1770804,1770803,198400,Hemangioma of skin and subcutaneous tissue,outcome
+1770804,1770803,79864,Hematuria syndrome,outcome
+1770804,1770803,195562,Hemorrhoids,outcome
+1770804,1770803,197911,Hernia of anterior abdominal wall without obstruction AND without gangrene,outcome
+1770804,1770803,433811,Hydronephrosis,outcome
+1770804,1770803,435511,Hypercalcemia,outcome
+1770804,1770803,434610,Hyperkalemia,outcome
+1770804,1770803,133729,Hyperparathyroidism,outcome
+1770804,1770803,4172432,Hyperpigmentation of skin,outcome
+1770804,1770803,141375,Hypertrophic condition of skin,outcome
+1770804,1770803,78474,Hypertrophy of breast,outcome
+1770804,1770803,440129,Hypertrophy of nasal turbinates,outcome
+1770804,1770803,434004,Hypervolemia,outcome
+1770804,1770803,435510,Hypocalcemia,outcome
+1770804,1770803,437833,Hypokalemia,outcome
+1770804,1770803,4098604,Hypomagnesemia,outcome
+1770804,1770803,435515,Hypo-osmolality and or hyponatremia,outcome
+1770804,1770803,436375,Hypovolemia,outcome
+1770804,1770803,375806,Idiopathic peripheral neuropathy,outcome
+1770804,1770803,312950,IgE-mediated allergic asthma,outcome
+1770804,1770803,374375,Impacted cerumen,outcome
+1770804,1770803,4308509,Impaired fasting glycaemia,outcome
+1770804,1770803,76161,Impotence of organic origin,outcome
+1770804,1770803,441417,Incoordination,outcome
+1770804,1770803,40483107,Inflamed seborrheic keratosis,outcome
+1770804,1770803,139099,Ingrowing nail,outcome
+1770804,1770803,436962,Insomnia,outcome
+1770804,1770803,201322,Internal hemorrhoids without complication,outcome
+1770804,1770803,201620,Kidney stone,outcome
+1770804,1770803,198101,Lipoma of skin and subcutaneous tissue,outcome
+1770804,1770803,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
+1770804,1770803,4033837,Melanocytic nevus of trunk,outcome
+1770804,1770803,4103703,Melena,outcome
+1770804,1770803,439082,Menopausal syndrome,outcome
+1770804,1770803,436940,Metabolic syndrome X,outcome
+1770804,1770803,72737,Microcalcifications of the breast,outcome
+1770804,1770803,318736,Migraine,outcome
+1770804,1770803,434005,Morbid obesity,outcome
+1770804,1770803,379805,Myopia,outcome
+1770804,1770803,30234,Neck sprain,outcome
+1770804,1770803,376065,Neurological disorder with diabetes type 2,outcome
+1770804,1770803,4209423,Nicotine dependence,outcome
+1770804,1770803,136661,Non-toxic nodular goiter,outcome
+1770804,1770803,437851,Open angle with borderline intraocular pressure,outcome
+1770804,1770803,77139,Open wound of finger without complication,outcome
+1770804,1770803,438120,Opioid dependence,outcome
+1770804,1770803,4211231,Panic disorder without agoraphobia,outcome
+1770804,1770803,321596,Peripheral venous insufficiency,outcome
+1770804,1770803,78162,Peripheral vertigo,outcome
+1770804,1770803,373478,Presbyopia,outcome
+1770804,1770803,4084229,Primary gout,outcome
+1770804,1770803,136184,Pruritus of skin,outcome
+1770804,1770803,261325,Pulmonary emphysema,outcome
+1770804,1770803,432883,"Recurrent major depressive episodes, moderate",outcome
+1770804,1770803,436246,Reduced libido,outcome
+1770804,1770803,443731,Renal disorder due to type 2 diabetes mellitus,outcome
+1770804,1770803,197006,Residual hemorrhoidal skin tags,outcome
+1770804,1770803,136773,Rosacea,outcome
+1770804,1770803,141932,Senile hyperkeratosis,outcome
+1770804,1770803,80824,Senile osteoporosis,outcome
+1770804,1770803,4110815,"Sensorineural hearing loss, bilateral",outcome
+1770804,1770803,313459,Sleep apnea,outcome
+1770804,1770803,81151,Sprain of ankle,outcome
+1770804,1770803,376382,Tension-type headache,outcome
+1770804,1770803,26662,Testicular hypofunction,outcome
+1770804,1770803,377575,Tinnitus,outcome
+1770804,1770803,437264,Tobacco dependence syndrome,outcome
+1770804,1770803,201254,Type 1 diabetes mellitus,outcome
+1770804,1770803,201826,Type 2 diabetes mellitus,outcome
+1770804,1770803,4193704,Type 2 diabetes mellitus without complication,outcome
+1770804,1770803,45768910,Uncomplicated asthma,outcome
+1770804,1770803,4088920,Uterus absent,outcome
+1770804,1770803,140641,Verruca vulgaris,outcome
+1770804,1770803,437246,Vitamin B deficiency,outcome
+1770804,1770803,436070,Vitamin D deficiency,outcome
+1770804,1770803,316127,Vitreous opacities,outcome
+1770804,1770803,195603,Vulval and/or perineal noninflammatory disorders,outcome
